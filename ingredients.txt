@@ -8,3 +8,5 @@ salt
 jalapenos
 onions
 more onions
+salt 
+pepper
